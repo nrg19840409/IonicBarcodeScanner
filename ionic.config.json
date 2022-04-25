@@ -1,0 +1,7 @@
+{
+  "name": "newscan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
